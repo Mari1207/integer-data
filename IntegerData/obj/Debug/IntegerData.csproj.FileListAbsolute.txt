@@ -1,0 +1,9 @@
+C:\Projects\Project1\IntegerData\IntegerData\obj\Debug\IntegerData.csprojAssemblyReference.cache
+C:\Projects\Project1\IntegerData\IntegerData\obj\Debug\IntegerData.csproj.CoreCompileInputs.cache
+C:\Projects\Project1\IntegerData\IntegerData\bin\Debug\IntegerData.exe.config
+C:\Projects\Project1\IntegerData\IntegerData\bin\Debug\IntegerData.exe
+C:\Projects\Project1\IntegerData\IntegerData\bin\Debug\IntegerData.pdb
+C:\Projects\Project1\IntegerData\IntegerData\obj\Debug\IntegerData.exe
+C:\Projects\Project1\IntegerData\IntegerData\obj\Debug\IntegerData.pdb
+C:\Projects\Project1\IntegerData\IntegerData\obj\Debug\IntegerData.frmMain.resources
+C:\Projects\Project1\IntegerData\IntegerData\obj\Debug\IntegerData.csproj.GenerateResource.cache
